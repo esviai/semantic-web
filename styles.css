@@ -33,3 +33,7 @@ a.main-menu {
   background-color: white;
   margin-top: 2rem;
 }
+
+.nav-right.search-menu {
+  overflow: hidden;
+}
